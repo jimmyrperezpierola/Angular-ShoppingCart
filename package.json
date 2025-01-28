@@ -51,7 +51,7 @@
     "owl.carousel": "^2.3.4",
     "primeng": "^7.0.0",
     "rxjs": "^6.4.0",
-    "shortid": "^2.2.14",
+    "shortid": "^2.2.17",
     "tether": "^1.4.5",
     "toastr": "^2.1.4",
     "web-animations-js": "^2.3.1",
